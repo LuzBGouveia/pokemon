@@ -12,7 +12,7 @@ import jakarta.ws.rs.core.Response;
 
 import java.util.ArrayList;
 
-@Path("/megafarma")
+@Path("/pokemon")
 public class PokemonResource {
     private PokemonBO pokemonBO = new PokemonBO();
 
